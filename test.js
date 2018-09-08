@@ -6,3 +6,5 @@ describe('Array', function() {
     });
   });
 });
+
+console.log("hello world");
